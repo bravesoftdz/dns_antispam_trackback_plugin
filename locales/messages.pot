@@ -1,0 +1,38 @@
+# dns_antispam_trackback_plugin - Language file
+# Copyright (C) 2015 keith
+# This file is distributed under the same license as the dns_antispam_trackback_plugin package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: dns_antispam_trackback_plugin 0.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-04-09 21:06-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../../_dns_antispam_trackback.plugin.php:53
+msgid "DNS Antispam trackback plugin"
+msgstr ""
+
+#: ../../../_dns_antispam_trackback.plugin.php:54
+msgid "This plugin provides rejection criteria for trackbacks based on dns IP address resolution."
+msgstr ""
+
+#: ../../../_dns_antispam_trackback.plugin.php:66
+msgid "IP whitelist"
+msgstr ""
+
+#: ../../../_dns_antispam_trackback.plugin.php:80
+msgid "Input one IP address you want to exempt per line"
+msgstr ""
+
+#: ../../../_dns_antispam_trackback.plugin.php:137
+msgid "The trackback does not come from referring host."
+msgstr ""

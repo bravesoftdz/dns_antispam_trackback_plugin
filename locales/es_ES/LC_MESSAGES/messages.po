@@ -1,0 +1,43 @@
+# Spanish translations for b package
+# Traducciones al español para el paquete b.
+# Copyright (C) 2015 keith
+# This file is distributed under the same license as the b package.
+# keith <keith@localhost.localdomain>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: b 2evolution\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-04-08 00:23-0400\n"
+"PO-Revision-Date: 2015-04-08 01:46-0400\n"
+"Last-Translator: keith <keith@localhost.localdomain>\n"
+"Language-Team: Spanish\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../../_dns_antispam_trackback.plugin.php:53
+msgid "DNS Antispam trackback plugin"
+msgstr "Complemento DNS Antispam Trackback"
+
+#: ../../../_dns_antispam_trackback.plugin.php:54
+msgid ""
+"This plugin provides rejection criteria for trackbacks based on dns IP "
+"address resolution."
+msgstr ""
+"El complemento proporciona criterios de rechazo para trackbacks basado en "
+"la resolución de la dirección IP."
+
+#: ../../../_dns_antispam_trackback.plugin.php:66
+msgid "IP whitelist"
+msgstr "Lista blanca de las direcciones IP"
+
+#: ../../../_dns_antispam_trackback.plugin.php:80
+msgid "Input one IP address you want to exempt per line"
+msgstr "Entran una dirección IP que quieren eximir por linea"
+
+#: ../../../_dns_antispam_trackback.plugin.php:137
+msgid "The trackback does not come from referring host."
+msgstr "El trackback no viene del mencionando host."
