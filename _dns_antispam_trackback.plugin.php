@@ -30,16 +30,16 @@ class dns_antispam_trackback_plugin extends Plugin
 	 * Variables below MUST be overriden by plugin implementations,
 	 * either in the subclass declaration or in the subclass constructor.
 	 */
-	var $name = 'DNS Antispam trackback 2';
+	public $name = 'DNS Antispam trackback 2';
 	/**
 	 * Code, if this is a renderer or pingback plugin.
 	 */
-	var $code = 'dns_trackback';
-	var $priority = 50;
-	var $version = '0.3';
-	var $author = 'Larry Nieves (aka Austriaco)';
-	var $help_url = 'http://cronicaslinuxeras.com/dns_trackback_anti_spam_plugin';
-	var $group = 'antispam' ;
+	public $code = 'dns_trackback';
+	public $priority = 50;
+	public $version = '0.3';
+	public $author = 'Larry Nieves (aka Austriaco)';
+	public $help_url = 'http://cronicaslinuxeras.com/dns_trackback_anti_spam_plugin';
+	public $group = 'antispam' ;
 
 
 
